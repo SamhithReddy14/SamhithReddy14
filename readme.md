@@ -8,7 +8,7 @@
 - 👯 Open to collaborate on open-source & web projects  
 - 🤝 Looking for guidance in system design & competitive coding  
 - 💬 Ask me about Java, DSA, Git, and Web Dev  
-- ⚡ Fun fact: I actually enjoy debugging 😄  
+- ⚡ Fun fact: Every bug I fix feels like leveling up
 
 ---
 
