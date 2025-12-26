@@ -38,6 +38,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamhithReddy14&theme=dark&layout=compact)
 
 ## 🧠 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/<samhithreddy14>?theme=dark&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/samhithreddy14?theme=dark&ext=heatmap)
 
 ---
